@@ -8,9 +8,7 @@ namespace BiblioMatriculas
         public void matempresas() //B_M.
         {
             Console.Clear();
-            Console.WriteLine("====================================");
-            Console.WriteLine("        MATRÍCULA DE EMPRESAS");
-            Console.WriteLine("====================================");
+            
             double ruc;
             string nomempresa;
             int participantes, curso;
@@ -18,6 +16,9 @@ namespace BiblioMatriculas
             do
             {
                 Console.Clear();
+                Console.WriteLine("====================================");
+                Console.WriteLine("        MATRÍCULA DE EMPRESAS");
+                Console.WriteLine("====================================");
                 Console.WriteLine("Escribir RUC de la empresa: ");
                 ruc = Convert.ToDouble(Console.ReadLine());
                 if (!(ruc < 100000000000 && ruc > 999999999))

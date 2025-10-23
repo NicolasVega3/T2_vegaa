@@ -10,3 +10,4 @@ C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\obj\Debug\Principa
 C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\obj\Debug\Principa.4B9EB7B2.Up2Date
 C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\obj\Debug\Principal_Vega.exe
 C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\obj\Debug\Principal_Vega.pdb
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\obj\Debug\Principal_Vega.exe.config
