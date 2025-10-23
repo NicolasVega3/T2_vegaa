@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\biblioteca_matriculas\\BiblioMatriculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B77F08B3-7F9A-4A67-9ACA-9AD918B2D48D}|BiblioMatriculas.csproj|c:\\users\\usuario\\desktop\\biblioteca_matriculas\\bibliomatriculas\\classmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77F08B3-7F9A-4A67-9ACA-9AD918B2D48D}|BiblioMatriculas.csproj|solutionrelative:classmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "classmatricula.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\biblioteca_matriculas\\BiblioMatriculas\\classmatricula.cs",
+              "RelativeDocumentMoniker": "classmatricula.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\biblioteca_matriculas\\BiblioMatriculas\\classmatricula.cs",
+              "RelativeToolTip": "classmatricula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T01:10:43.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

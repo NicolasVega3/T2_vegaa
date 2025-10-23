@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\BibliotecaAsistencia\bin\Debug\BibliotecaAsistencia.dll
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\BibliotecaAsistencia\bin\Debug\BibliotecaAsistencia.pdb
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\BibliotecaAsistencia\obj\Debug\BibliotecaAsistencia.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\BibliotecaAsistencia\obj\Debug\BibliotecaAsistencia.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\BibliotecaAsistencia\obj\Debug\BibliotecaAsistencia.dll
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\BibliotecaAsistencia\obj\Debug\BibliotecaAsistencia.pdb

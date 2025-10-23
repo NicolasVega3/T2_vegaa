@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\BiblioMatriculas\bin\Debug\BiblioMatriculas.dll
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\BiblioMatriculas\bin\Debug\BiblioMatriculas.pdb
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\BiblioMatriculas\obj\Debug\BiblioMatriculas.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\BiblioMatriculas\obj\Debug\BiblioMatriculas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\BiblioMatriculas\obj\Debug\BiblioMatriculas.dll
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\BiblioMatriculas\obj\Debug\BiblioMatriculas.pdb

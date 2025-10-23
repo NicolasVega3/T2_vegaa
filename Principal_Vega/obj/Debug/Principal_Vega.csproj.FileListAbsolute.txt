@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\bin\Debug\Principal_Vega.exe.config
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\bin\Debug\Principal_Vega.exe
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\bin\Debug\Principal_Vega.pdb
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\bin\Debug\BiblioMatriculas.dll
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\bin\Debug\BibliotecaAsistencia.dll
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\bin\Debug\BiblioMatriculas.pdb
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\bin\Debug\BibliotecaAsistencia.pdb
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\obj\Debug\Principal_Vega.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\obj\Debug\Principal_Vega.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\obj\Debug\Principa.4B9EB7B2.Up2Date
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\obj\Debug\Principal_Vega.exe
+C:\Users\USUARIO\Desktop\biblioteca_matriculas\Principal_Vega\obj\Debug\Principal_Vega.pdb
